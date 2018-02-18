@@ -6,5 +6,7 @@
 # SIMPLE APP FOR IOS FOUNDATION
 ### 
 # 
-##################################
-Il progetto ora è semi funzionante, mancano alcune funzionalità
+#################################
+ho sistemato al meglio l'app
+bisogna implementare un altra funzione per il controllo della creazione dei corsi
+non mi va ora perchè ho sonno quindi fineeee
