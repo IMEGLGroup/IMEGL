@@ -6,11 +6,5 @@
 # SIMPLE APP FOR IOS FOUNDATION
 ### 
 # 
-###################################
-#
-# modificata interfaccia grafica
-# modificata interfaccia grafica 
-# aggiunti file di rifermento del calendar
-# aggiunte le varie prove della creazione e gestione del file con relativa soluzione della scrittura di stringhe
-## aggiornato il project
-#######
+##################################
+Il progetto ora è semi funzionante, mancano alcune funzionalità
